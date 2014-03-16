@@ -14,8 +14,6 @@ package com.gameengine.match3.model
         public function fromXML(settings: XML): void
         {
             _rawSettins = settings;
-
-
         }
     }
 }
