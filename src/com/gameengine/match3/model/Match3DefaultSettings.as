@@ -5,6 +5,6 @@ package com.gameengine.match3.model
 {
     public class Match3DefaultSettings
     {
-        public static const SETTINGS: XML = <settings></settings>;
+        public static const SETTINGS: XML = <settings cols="10" rows="10"></settings>;
     }
 }
